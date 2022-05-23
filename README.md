@@ -1,3 +1,5 @@
+# Hey! my name is Lalaina 👋, nice to meet you !
+
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&color=1586A6&lines=Welcome+to+my+Github+page!"></h1>
 
 <div align="center">
